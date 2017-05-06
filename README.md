@@ -2,9 +2,23 @@
 
 I think I got it right. We'ss see. 
 
-### Plot 1
+### Plot 1 by Dan
 * [code](plot1.R)
 * [PNG file](plt1.png) 
+
+### Plot 2 by Dan
+* [code](plot2.R)
+* [PNG file](plot2.png) 
+
+### Plot 3 by Dan
+* [code](plot3.R)
+* [PNG file](plot3.png) 
+
+### Plot 4 by Dan
+* [code](plot4.R)
+* [PNG file](plot4.png) 
+
+
 
 ## Introduction
 
