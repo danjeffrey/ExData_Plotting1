@@ -4,7 +4,7 @@ I think I got it right. We'ss see.
 
 ### Plot 1 by Dan
 * [code](plot1.R)
-* [PNG file](plt1.png) 
+* [PNG file](plot1.png) 
 
 ### Plot 2 by Dan
 * [code](plot2.R)
