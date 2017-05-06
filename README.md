@@ -1,3 +1,11 @@
+# Dan Jeffrey's Fork of This Repository
+
+I think I got it right. We'ss see. 
+
+### Plot 1
+* [code](plot1.R)
+* [PNG file](plt1.png) 
+
 ## Introduction
 
 This assignment uses data from
