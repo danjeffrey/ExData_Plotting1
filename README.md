@@ -1,7 +1,7 @@
 # Dan Jeffrey's Fork of This Repository
 
 I think I got it right. We'll see. 
-The figures folder came from the original repository that was forked. Those images are not mine. 
+The "figure" folder came from the original repository that was forked. Those images are not mine. 
 
 ### Plot 1 by Dan
 * [code](plot1.R)
